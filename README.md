@@ -104,7 +104,7 @@ data-warehouse-project/
 ```
 ---## About Me
 
-Hi, I’m **Mohamed Hanafy** – a passionate **Data Analyst & BI Developer** with experience in designing data warehouses, building ETL workflows, and creating interactive dashboards in **Tableau**. I have a strong background in **SAP FICO**, SQL, and data integration, and I enjoy turning complex datasets into actionable insights.  
+Hi, I’m **Mohamed Hanafy** – a passionate **Data Analyst & BI Developer** with experience in designing data warehouses, building ETL workflows, and creating interactive dashboards and reports. I have a strong background in **Power BI**, SQL, and data integration, and I enjoy turning complex datasets into actionable insights.  
 
 - 💼 Experienced in **Tableau, Alteryx, SingleStore, and SQL**  
 - 📊 Specialize in **business intelligence, data visualization, and dashboard optimization**  
