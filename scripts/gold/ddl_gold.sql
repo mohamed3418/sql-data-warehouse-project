@@ -1,5 +1,5 @@
 
-/****** Script for SelectTopNRows command from SSMS  ******/
+/****** Script for creating Gold layer in the data warehouse as a star schema  ******/
 /*
 This script builds the Gold Layer views for the data warehouse.
 
