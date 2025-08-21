@@ -102,7 +102,8 @@ data-warehouse-project/
 ├── .gitignore                          # Files and directories to be ignored by Git
 └── requirements.txt                    # Dependencies and requirements for the project
 ```
----## About Me
+---
+## About Me
 
 Hi, I’m **Mohamed Hanafy** – a passionate **Data Analyst & BI Developer** with experience in designing data warehouses, building ETL workflows, and creating interactive dashboards and reports. I have a strong background in **Power BI**, SQL, and data integration, and I enjoy turning complex datasets into actionable insights.  
 
