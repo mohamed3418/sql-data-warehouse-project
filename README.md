@@ -14,6 +14,19 @@ The data architecture for this project follows Medallion Architecture **Bronze**
 2. **Silver Layer**: This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
 3. **Gold Layer**: Houses business-ready data modeled into a star schema required for reporting and analytics.
 
+## 🏗️ Data Flow Diagram
+Data flow from Bronze to Silver to Gold layers showing ETL transformations and integration.
+![Data Flow Diagram](docs/Data%20flow%20Diagram.png)
+
+## Integration Model
+The following diagram shows the **Integration Model**, illustrating how CRM and ERP tables are connected:
+
+![Integration Model](docs/Integration%20Model.png)
+
+## Sales Data Mart
+The following diagram represents the **Sales Data Mart** in a star schema format:
+
+![Sales Data Mart](docs/Data%20Mart%20Sales%20.png)
 ---
 ## 📖 Project Overview
 
