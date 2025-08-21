@@ -102,7 +102,16 @@ data-warehouse-project/
 ├── .gitignore                          # Files and directories to be ignored by Git
 └── requirements.txt                    # Dependencies and requirements for the project
 ```
----
+---## About Me
+
+Hi, I’m **Mohamed Hanafy** – a passionate **Data Analyst & BI Developer** with experience in designing data warehouses, building ETL workflows, and creating interactive dashboards in **Tableau**. I have a strong background in **SAP FICO**, SQL, and data integration, and I enjoy turning complex datasets into actionable insights.  
+
+- 💼 Experienced in **Tableau, Alteryx, SingleStore, and SQL**  
+- 📊 Specialize in **business intelligence, data visualization, and dashboard optimization**  
+- 🌐 Strong understanding of **Medallion Architecture (Bronze, Silver, Gold layers)**  
+- 🎯 Driven to deliver **clean, reliable, and analytics-ready data**  
+
+I love learning new tools and techniques to make data analysis more effective and impactful.  
 
 ## ☕ Stay Connected
 
